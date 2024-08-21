@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Sharadh Hombal
+  name: Dr. Sharadh Hombal
   email: drsharadh@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -96,11 +96,11 @@ theme_mode: light
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets\lib\images\Profile.jpg
+avatar: https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: assets\lib\images\Profile.jpg # string, local or CORS resources
+social_preview_image: https://media.licdn.com/media/AAYQAQSOAAgAAQAAAAAAAB-zrMZEDXI2T62PSuT6kpB6qg.png # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
