@@ -18,7 +18,7 @@ title: Dr. Sharadh Hombal # the main title
 
 tagline: I'm a doctor, thinker and learner. This blog is my attempt into making sense of the world around me and learning new things. # it will display as the sub-title
 
-description: I'm a doctor >- # used by seo meta and the atom feed
+description: doctor >- # used by seo meta and the atom feed
 
 
 # Fill in the protocol & hostname for your site.
@@ -41,8 +41,8 @@ social:
     # - https://twitter.com/username # change to your twitter homepage
     # - https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
-     - https://www.instagram.com/sharadh21/
-     - https://www.linkedin.com/in/sharadh-hombal-2457b8150/
+    - https://www.instagram.com/sharadh21/
+    - https://www.linkedin.com/in/drsharadhhombal/
 
 # Site Verification Settings
 webmaster_verifications:
