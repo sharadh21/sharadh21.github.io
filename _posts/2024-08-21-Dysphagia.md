@@ -3,7 +3,7 @@ layout: post
 title: Do not speak while you eat
 date: 2024-08-21 22:35 +0530
 description: Why we choke on food if we eat and speak simultaneously?
-image: /assets/images/img03.jpg
+image: /assets/Images/img03.jpg
 category: [Informative, Swallowing]
 tags: [swallowing, informative]
 published: True
