@@ -3,7 +3,7 @@ layout: post
 title: Dysphagia
 date: 2024-08-21 22:35 +0530
 description: Why we choke on food if we eat and speak simultaneously?
-image: https://drive.google.com/file/d/11GhjW4zmuYNknBAn0mzctynLNA-ObX7e/view?usp=sharing
+image: 
 category: [Informative, Swallowing]
 tags: [swallowing, informative]
 published: True
@@ -30,22 +30,14 @@ But here lies the beauty of this design. The larynx is primarily a safety mechan
 Nestled within this delicate system is another vital structure, the ‘epiglottis’, a small, leaf-shaped flap of cartilage that is a part of the larynx. It plays a crucial role in keeping us safe. When we swallow, the epiglottis automatically folds down over the opening of the trachea (windpipe), creating a protective barrier that diverts food and liquid into the esophagus (foodpipe), which is the correct passage to the stomach.
 
 ````
-{% include embed/youtube.html
-  src= YQm5RCz9Pxc
+{% include embed/youtube.html id= 'YQm5RCz9Pxc'
   title='animation of swallowing'
-  autoplay=true
-  loop=true
-  muted=true
-%}
+  %}
 *simple animation explaining swallowing*
 
 {%
-  include embed/youtube.html
-  src= 0MoJPhCIfYc
+  include embed/youtube.html id= '0MoJPhCIfYc'  
   title='animation of swallowing'
-  autoplay=true
-  loop=true
-  muted=true
 %}
 *An MRI video of a person swallowing*
 
