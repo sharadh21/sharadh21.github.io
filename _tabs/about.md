@@ -16,5 +16,4 @@ Join me as I learn more about the world and try to understand it by writing abou
 ### Before you go.
 
 > "yoga-sthaḥ kuru karmāṇi saṅgaṁ tyaktvā dhanañjaya siddhy-asiddhyoḥ samo bhūtvā samatvaṁ yoga uchyate"
-
 > "BG 2.48: Be steadfast in the performance of your duty, O Arjun, abandoning attachment to success and failure. Such equanimity is called Yog."
