@@ -49,12 +49,9 @@ This essential process happens flawlessly in milliseconds, preventing food from 
 We often take for granted all the processes that go on in our bodies without conscious effort. In this blog, I have tried to touch upon the basics of swallowing. Many more intricacies are needed to make swallowing successfull. The fact that everything usually happens seamlessly is a testament to the amazing design. We've just scratched the surface of the complexity of life and you might already be asking the age-old question: How did all this come into existence? Was it God, or was it coincidence? Well, that's a topic for another day.
 
 The next time you sit down for a meal, take a moment to appreciate the millions of micro miracles happening inside of you. The simple act of eating, breathing and speaking is something many of us do every day without a second thought. Yet, for some people, it’s a constant reminder of how fragile this body can be. In a world where everyone looks at flaws and news outlets report nothing but negativity, let's be thankful that we are alive and healthy today.
-\
-\
+
 > “uddhared ātmanātmānaṁ nātmānam avasādayet ātmaiva hyātmano bandhur ātmaiva ripur ātmanaḥ”
 > BG 6.5: Elevate yourself through the power of your mind, and not degrade yourself, for the mind can be the friend and also the enemy of the self.
-\
-\
-\
+
 > This blog is not medical advice. If you have any symptoms that concern you, talk to your doctor for a proper diagnosis
 {: .prompt-danger }
