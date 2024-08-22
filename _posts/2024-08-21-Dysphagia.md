@@ -29,7 +29,8 @@ Nestled within this delicate system is another vital structure, the ‘epiglotti
 
 {%
   include embed/youtube.html id= '0MoJPhCIfYc'  
-  title='animation of swallowing
+  title='animation of swallowing'
+  
 %}
 *An MRI video of a person swallowing*
 
@@ -39,8 +40,10 @@ We often take for granted all the processes that go on in our bodies without con
 
 The next time you sit down for a meal, take a moment to appreciate the millions of micro miracles happening inside of you. The simple act of eating, breathing and speaking is something many of us do every day without a second thought. Yet, for some people, it’s a constant reminder of how fragile this body can be. In a world where everyone looks at flaws and news outlets report nothing but negativity, let's be thankful that we are alive and healthy today.
 
-{% include embed/youtube.html id= 'YQm5RCz9Pxc'
+{% 
+  include embed/youtube.html id= 'YQm5RCz9Pxc'
   title='animation of swallowing'
+
 %}
 *simple animation explaining swallowing*
 
