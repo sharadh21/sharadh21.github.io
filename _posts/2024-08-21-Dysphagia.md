@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dysphagia
+title: Do not speak while you eat
 date: 2024-08-21 22:35 +0530
 description: Why we choke on food if we eat and speak simultaneously?
 image: 
@@ -10,8 +10,6 @@ published: True
 sitemap: false
 ---
 
-### Dysphagia
-
 You're sitting down for a meal with your friends, having a casual conversation. At some point, you get a sudden feeling that something's wrong, and with a fit of violent cough, you clear out the food you choked on. This reminds us of a rule our parents etched into us: "Don't speak while you're eating!" As kids, we didn't think much of it, but as we grew older, we learned how easy it is to choke on food. We know now that it happens when food accidentally takes a wrong turn and ends up in the windpipe, but wait a second!. Why does food go into the wrong pipe? Is it some kind of a design flaw? 
 
 
@@ -20,19 +18,14 @@ One year ago, my uncle had a stroke. While he had difficulty walking and moving 
 ![image of a railway crossing]( https://images.unsplash.com/photo-1667331574535-afb6ecfdd14d?q=80&w=1982&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D ){: w="700" h="400" }
 *Photo by <a href="https://unsplash.com/@mihaly_koles?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mihály Köles</a> on <a href="https://unsplash.com/photos/a-close-up-of-a-train-track-dPkI3KcqGDw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>*
 
+![schematic image of throat](/assets/Images/img02.jpg)
+*Schematic image of the throat*
+
 This incident made me appreciate how remarkably specialized our body is. The fact that the larynx in mammals has evolved to produce voice and also protect the airway is fascinating. Above the larynx is a common pathway for both food and air called the pharynx. Imagine a railway crossing that allows a train to switch between two tracks, you can compare this with the picture of the throat. But why is there a common passage?, wouldn’t it be simpler to have two separate pipes from start to finish- one for food and one for air?
 
 But here lies the beauty of this design. The larynx is primarily a safety mechanism. The same air that allows us to live and breathe is also responsible for forming sounds and words. As it passes out through the larynx and out the mouth, this gives us the ability to speak. The human voice allows us to communicate, form complex communities, and create countless languages. It has proved to be a defining and differentiating character of our species.
 
 Nestled within this delicate system is another vital structure, the ‘epiglottis’, a small, leaf-shaped flap of cartilage that is a part of the larynx. It plays a crucial role in keeping us safe. When we swallow, the epiglottis automatically folds down over the opening of the trachea (windpipe), creating a protective barrier that diverts food and liquid into the esophagus (foodpipe), which is the correct passage to the stomach.
-
-{% include embed/youtube.html id= 'YQm5RCz9Pxc'
-  title='animation of swallowing'
-  autoplay=true
-  muted=true
-  
-%}
-*simple animation explaining swallowing*
 
 {%
   include embed/youtube.html id= '0MoJPhCIfYc'  
@@ -50,7 +43,16 @@ We often take for granted all the processes that go on in our bodies without con
 
 The next time you sit down for a meal, take a moment to appreciate the millions of micro miracles happening inside of you. The simple act of eating, breathing and speaking is something many of us do every day without a second thought. Yet, for some people, it’s a constant reminder of how fragile this body can be. In a world where everyone looks at flaws and news outlets report nothing but negativity, let's be thankful that we are alive and healthy today.
 
+{% include embed/youtube.html id= 'YQm5RCz9Pxc'
+  title='animation of swallowing'
+  autoplay=true
+  muted=true
+  
+%}
+*simple animation explaining swallowing*
+
 > “uddhared ātmanātmānaṁ nātmānam avasādayet ātmaiva hyātmano bandhur ātmaiva ripur ātmanaḥ”
+
 > BG 6.5: Elevate yourself through the power of your mind, and not degrade yourself, for the mind can be the friend and also the enemy of the self.
 
 > This blog is not medical advice. If you have any symptoms that concern you, talk to your doctor for a proper diagnosis
