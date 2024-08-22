@@ -3,7 +3,7 @@ layout: post
 title: Do not speak while you eat
 date: 2024-08-21 22:35 +0530
 description: Why we choke on food if we eat and speak simultaneously?
-image: 
+image: /assets/Images/img02.jpg
 category: [Informative, Swallowing]
 tags: [swallowing, informative]
 published: True
@@ -29,11 +29,7 @@ Nestled within this delicate system is another vital structure, the ‘epiglotti
 
 {%
   include embed/youtube.html id= '0MoJPhCIfYc'  
-  title='animation of swallowing'
-  autoplay=true
-  muted=true
-  loop=true
-
+  title='animation of swallowing
 %}
 *An MRI video of a person swallowing*
 
@@ -45,15 +41,16 @@ The next time you sit down for a meal, take a moment to appreciate the millions 
 
 {% include embed/youtube.html id= 'YQm5RCz9Pxc'
   title='animation of swallowing'
-  autoplay=true
-  muted=true
-  
 %}
 *simple animation explaining swallowing*
+
+<br/>
 
 > “uddhared ātmanātmānaṁ nātmānam avasādayet ātmaiva hyātmano bandhur ātmaiva ripur ātmanaḥ”
 
 > BG 6.5: Elevate yourself through the power of your mind, and not degrade yourself, for the mind can be the friend and also the enemy of the self.
+
+<br/>
 
 > This blog is not medical advice. If you have any symptoms that concern you, talk to your doctor for a proper diagnosis
 {: .prompt-danger }
