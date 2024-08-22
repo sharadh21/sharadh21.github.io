@@ -3,7 +3,7 @@ layout: post
 title: Do not speak while you eat
 date: 2024-08-21 22:35 +0530
 description: Why we choke on food if we eat and speak simultaneously?
-image: /assets/Images/img02.jpg
+image: /assets/images/img03.jpg
 category: [Informative, Swallowing]
 tags: [swallowing, informative]
 published: True
@@ -16,10 +16,10 @@ You're sitting down for a meal with your friends, having a casual conversation. 
 One year ago, my uncle had a stroke. While he had difficulty walking and moving about, the most significantly affected was his larynx- an organ on top of our throat commonly known as the voice box. It's where our voice comes from, but it also has another responsibility. This organ serves as a gatekeeper, preventing food from entering the windpipe. My uncle could talk fairly well, but unfortunately, eating and drinking became a daily struggle, as he constantly choked on everything he put in his mouth.
 
 ![image of a railway crossing]( https://images.unsplash.com/photo-1667331574535-afb6ecfdd14d?q=80&w=1982&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D ){: w="700" h="400" }
-*Photo by <a href="https://unsplash.com/@mihaly_koles?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mihály Köles</a> on <a href="https://unsplash.com/photos/a-close-up-of-a-train-track-dPkI3KcqGDw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>*
+*The pharynx can be compared to a railway crossing -Photo by <a href="https://unsplash.com/@mihaly_koles?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mihály Köles</a> on <a href="https://unsplash.com/photos/a-close-up-of-a-train-track-dPkI3KcqGDw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>*
 
 ![schematic image of throat](/assets/Images/img02.jpg)
-*Schematic image of the throat*
+*Schematic image of the throat showing pharynx*
 
 This incident made me appreciate how remarkably specialized our body is. The fact that the larynx in mammals has evolved to produce voice and also protect the airway is fascinating. Above the larynx is a common pathway for both food and air called the pharynx. Imagine a railway crossing that allows a train to switch between two tracks, you can compare this with the picture of the throat. But why is there a common passage?, wouldn’t it be simpler to have two separate pipes from start to finish- one for food and one for air?
 
@@ -30,7 +30,7 @@ Nestled within this delicate system is another vital structure, the ‘epiglotti
 {%
   include embed/youtube.html id= '0MoJPhCIfYc'  
   title='animation of swallowing'
-  
+
 %}
 *An MRI video of a person swallowing*
 
