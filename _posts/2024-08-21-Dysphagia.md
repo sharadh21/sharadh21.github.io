@@ -20,7 +20,7 @@ One year ago, my uncle had a stroke. While he had difficulty walking and moving 
 ![image of a railway crossing]( https://images.unsplash.com/photo-1667331574535-afb6ecfdd14d?q=80&w=1982&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D ){: w="700" h="400" }
 *Photo by <a href="https://unsplash.com/@mihaly_koles?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mihály Köles</a> on <a href="https://unsplash.com/photos/a-close-up-of-a-train-track-dPkI3KcqGDw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>*
 
-![Image of throat]( https://drive.google.com/file/d/11GhjW4zmuYNknBAn0mzctynLNA-ObX7e/view?usp=sharing ){: w="700" h="400" }
+![Image of throat](https://drive.google.com/file/d/11GhjW4zmuYNknBAn0mzctynLNA-ObX7e/view?usp=sharing)
 *A schematic diagram of the throat*
 
 This incident made me appreciate how remarkably specialized our body is. The fact that the larynx in mammals has evolved to produce voice and also protect the airway is fascinating. Above the larynx is a common pathway for both food and air called the pharynx. Imagine a railway crossing that allows a train to switch between two tracks, you can compare this with the picture of the throat. But why is there a common passage?, wouldn’t it be simpler to have two separate pipes from start to finish- one for food and one for air?
@@ -32,12 +32,17 @@ Nestled within this delicate system is another vital structure, the ‘epiglotti
 ````
 {% include embed/youtube.html id= 'YQm5RCz9Pxc'
   title='animation of swallowing'
+  autoplay=true
+  mute=true
   %}
 *simple animation explaining swallowing*
 
 {%
   include embed/youtube.html id= '0MoJPhCIfYc'  
   title='animation of swallowing'
+  autoplay=true
+  mute=true
+  loop=true
 %}
 *An MRI video of a person swallowing*
 
