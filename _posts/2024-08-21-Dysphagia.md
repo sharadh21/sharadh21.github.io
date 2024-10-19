@@ -29,7 +29,7 @@ Nestled within this delicate system is another vital structure, the ‘epiglotti
 
 {%
   include embed/youtube.html id= '0MoJPhCIfYc'  
-  title='animation of swallowing'
+  title='animation of swallowing.'
 
 %}
 *An MRI video of a person swallowing*
