@@ -55,5 +55,5 @@ The next time you sit down for a meal, take a moment to appreciate the millions 
 
 <br/>
 
-> This blog is not medical advice. If you have any symptoms that concern you, talk to your doctor for a proper diagnosis
+> This blog is not medical advice. If you have any symptoms that concern you, talk to your doctor for a proper diagnosis.
 {: .prompt-danger }
