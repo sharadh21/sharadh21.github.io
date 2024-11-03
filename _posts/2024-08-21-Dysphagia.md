@@ -2,18 +2,22 @@
 title: Dysphagia
 last_modified_at: 2024-08-21 22:35 +0530
 description: Do not speak when you eat
-excerpt: You've all heard the saying, do not eat when you speak, But why?
+excerpt: You've all heard the saying, "Do not eat when you speak", Have you wondered why? 
 header:
-  overlay_image: /assets/Images/img03.jpg
-  caption: "Dysphagia- Difficulty in swallowing" 
+  overlay_image: /assets/images/img03.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "an elderly person coughing" 
 layout: single
 classes: wide
+author_profile: true
 categories:
   - Blog
 tags:
   - swallowing
   - Informative
 ---
+
+Dysphagia is defined as difficulty in swallowing.
 
 You're sitting down for a meal with your friends, having a casual conversation. At some point, you get a sudden feeling that something's wrong, and with a fit of violent cough, you clear out the food you choked on. This reminds us of a rule our parents etched into us: "Don't speak while you're eating!" As kids, we didn't think much of it, but as we grew older, we learned how easy it is to choke on food. We know now that it happens when food accidentally takes a wrong turn and ends up in the windpipe, but wait a second!. Why does food go into the wrong pipe? Is it some kind of a design flaw? 
 
@@ -32,9 +36,7 @@ But here lies the beauty of this design. The larynx is primarily a safety mechan
 
 Nestled within this delicate system is another vital structure, the ‘epiglottis’, a small, leaf-shaped flap of cartilage that is a part of the larynx. It plays a crucial role in keeping us safe. When we swallow, the epiglottis automatically folds down over the opening of the trachea (windpipe), creating a protective barrier that diverts food and liquid into the esophagus (foodpipe), which is the correct passage to the stomach.
 
-[![animation of swallowing](https://img.youtube.com/vi/0MoJPhCIfYc/0.jpg)](https://www.youtube.com/watch?v=0MoJPhCIfYc)
-
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/watch?v=0MoJPhCIfYc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0MoJPhCIfYc?si=bT5B5ntUk-7nMaAW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 *An MRI video of a person swallowing*
 
 This essential process happens flawlessly in milliseconds, preventing food from entering our lungs. Any structural or functional defect in this process leads to a constant risk of choking, lung infections and even death.
@@ -43,8 +45,7 @@ We often take for granted all the processes that go on in our bodies without con
 
 The next time you sit down for a meal, take a moment to appreciate the millions of micro miracles happening inside of you. The simple act of eating, breathing and speaking is something many of us do every day without a second thought. Yet, for some people, it’s a constant reminder of how fragile this body can be. In a world where everyone looks at flaws and news outlets report nothing but negativity, let's be thankful that we are alive and healthy today.
 
-[![animation of swallowing](https://img.youtube.com/vi/YQm5RCz9Pxc/0.jpg)](https://www.youtube.com/watch?v=YQm5RCz9Pxc)
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/watch?v=YQm5RCz9Pxc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YQm5RCz9Pxc?si=ZLrxwayGz_Bba91y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 *simple animation explaining swallowing*
 
 <br/>

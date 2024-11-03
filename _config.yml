@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "contrast" #"default" "air", "aqua", "contrast", "dar
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Dr Sharadh Hombal"
+title                    : "Dr Hombal's Blog"
 title_separator          : "-"
 subtitle                 : "MBBS"# site tagline that appears below site title in masthead
 name                     : "Dr. Sharadh Hombal"
@@ -90,9 +90,9 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : DrSharadhHombal
 facebook:
-  username               :
+  username               : 
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -124,10 +124,10 @@ author:
       url: "mailto:sharadh21@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      # url: "https://sharadh21.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://x.com/DrSharadhHombal"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -137,13 +137,16 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/sharadh21"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/in/drsharadhhombal/
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://x.com/DrSharadhHombal"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -153,9 +156,9 @@ footer:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/in/drsharadhhombal/
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/sharadh21"
