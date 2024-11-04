@@ -19,7 +19,7 @@ main:
   #- title: "Pages"
   #  url: /page-archive/
   - title: "Photography"
-    url: /collection-archive/
-  - title: "About me"
-    url: https://google.com
-    target: _blank
+    url: /photography/
+  #- title: "About me"
+  #  url: https://google.com
+  #  target: _blank

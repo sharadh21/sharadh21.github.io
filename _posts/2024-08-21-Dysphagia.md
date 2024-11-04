@@ -9,7 +9,7 @@ header:
   caption: "an elderly person coughing" 
 layout: single
 classes: wide
-author_profile: true
+author_profile: false
 categories:
   - Blog
 tags:
