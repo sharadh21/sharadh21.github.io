@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "contrast" #"default" "air", "aqua", "contrast", "dar
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Dr Hombal's Blog"
+title                    : "Dr. Hombal's Blog"
 title_separator          : "-"
 subtitle                 : "MBBS"# site tagline that appears below site title in masthead
 name                     : "Dr. Sharadh Hombal"
