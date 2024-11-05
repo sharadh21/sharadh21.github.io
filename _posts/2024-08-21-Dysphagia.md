@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "an elderly person coughing" 
 layout: single
-classes: wide
+# classes: wide
 author_profile: false
 categories:
   - Blog

@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "contrast" #"default" "air", "aqua", "contrast", "dar
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Dr. Hombal's Blog"
+title                    : "Dr. Sharadh Hombal"
 title_separator          : "-"
-subtitle                 : "MBBS"# site tagline that appears below site title in masthead
+subtitle                 : "An experimental D.I.Y. website"# site tagline that appears below site title in masthead
 name                     : "Dr. Sharadh Hombal"
 description              : "I'm a doctor learning to build a website and blogging to discover more about the world and myself"
 url                      : "https://sharadh21.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -67,7 +67,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   :  true #, false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -117,7 +117,7 @@ author:
   avatar           : /assets/images/bio-photo.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a doctor, thinker and learner."
   location         : "Bengaluru, India."
-  email            :
+  email            : drsharadh@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

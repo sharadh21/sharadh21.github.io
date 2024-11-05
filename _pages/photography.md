@@ -32,14 +32,30 @@ feature_row:
     # title: "Placeholder 3"
     image_caption: "Solar eclipse captured from Bengaluru"
     # excerpt: "This is some sample content that goes here with **Markdown** formatting."
+
+feature_row2:  
+  - image_path: assets/images/photo7.jpg
+    alt: "placeholder image 4"
+    image_caption: "Super blood moon and lunar eclipse 31-01-2018"
+    # title: "Placeholder 1"
+    #excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/photo9.jpg
+    image_caption: "The Great Conjunction, Jupiter & moons with Saturn 22-12-2020"
+    alt: "placeholder image 5"
+    # title: "Placeholder 5"
+    #excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    # url: "#test-link"
+    # btn_label: "Read More"
+    # btn_class: "btn--primary"
+  - image_path: /assets/images/photo8.jpg
+    # title: "Placeholder 6"
+    image_caption: "Comet C/2023 A3 (Tsuchinshan-ATLAS) 01-10-2024"
+    # excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+{% include feature_row id="feature_row2"%}
 
-{% include feature_row id="feature_row2" type="left" %}
 
-{% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}
