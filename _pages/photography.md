@@ -6,7 +6,7 @@ author_profile: false
 header:
   overlay_color: "#000"
   overlay_filter: "0"
-  overlay_image: /assets/images/photo3.jpg
+  overlay_image: /assets/images/photo3.JPG
   actions:
     - label: "Instagram"
       url: "https://www.instagram.com/otherworldly.perception?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
@@ -15,7 +15,7 @@ excerpt: Follow my journey in capturing the world one picture at a time.
 intro: 
   - excerpt: 'We are a way for the *cosmos* to know itself. -Carl Sagan'
 feature_row:
-  - image_path: assets/images/photo4.jpg
+  - image_path: assets/images/photo4.JPG
     alt: "placeholder image 1"
     image_caption: "A lotus flower in full bloom"
     # title: "Placeholder 1"
@@ -28,7 +28,7 @@ feature_row:
     # url: "#test-link"
     # btn_label: "Read More"
     # btn_class: "btn--primary"
-  - image_path: /assets/images/photo5.jpg
+  - image_path: /assets/images/photo5.JPG
     # title: "Placeholder 3"
     image_caption: "Solar eclipse captured from Bengaluru"
     # excerpt: "This is some sample content that goes here with **Markdown** formatting."
