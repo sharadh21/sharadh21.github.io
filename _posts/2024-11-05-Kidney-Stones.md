@@ -46,12 +46,12 @@ The pain associated with kidney stones is often described as excruciating and ma
 ## How to treat and prevent them?
 Stones smaller than 5 mm may pass naturally through urine. However, larger stones can obstruct urine flow, leading to backflow and potential kidney damage; these require immediate treatment.
 
-A common treatment method is Extracorporeal Shock Wave Lithotripsy (ESWL), which breaks down stones into smaller fragments using shock waves. This outpatient procedure typically does not require anesthesia and can be performed in a few hours. [Hitech Kidney Stone Hospital, Bengaluru](www.hitechkidneystonehospital.org) is one such hospital treating kidney stones with ESWL since 24 years.
+A common treatment method is Extracorporeal Shock Wave Lithotripsy (ESWL), which breaks down stones into smaller fragments using shock waves. This outpatient procedure typically does not require anesthesia and can be performed in a few hours.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vp9h2JyCmY4?si=gD_J0crr8chR0hwD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <figcaption>What is the ESWL procedure?</figcaption>
 
-In some cases, surgical intervention by a urologist may be necessary to remove larger stones.
+[Hitech Kidney Stone Hospital, Bengaluru](www.hitechkidneystonehospital.org) is one such hospital treating kidney stones with ESWL since 24 years. In some cases, surgical intervention by a urologist may be necessary to remove larger stones.
 
 **Note:** Urologist- a doctor who specialises in the study or treatment of function and disorders of the urinary system.
 {: .notice}
