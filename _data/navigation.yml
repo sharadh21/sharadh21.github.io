@@ -8,8 +8,6 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title: "Home"
-    url: /
   - title: "Blog"
     url: /blog/
   #- title: "Categories"
@@ -20,6 +18,8 @@ main:
   #  url: /page-archive/
   - title: "Photography"
     url: /photography/
+  - title: "Home"
+    url: /  
   #- title: "About me"
   #  url: https://google.com
   #  target: _blank
