@@ -4,7 +4,7 @@ last_modified_at: 2024-08-21 22:35 +0530
 description: Do not speak when you eat
 excerpt: You've all heard the saying, "Do not eat when you speak", Have you wondered why? 
 header:
-  teaser: /assets/images/img02.jpg
+  teaser: /assets/images/teaser1.jpg
   overlay_image: /assets/images/img03.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "an elderly person coughing" 

@@ -4,7 +4,7 @@ last_modified_at: 2024-11-05 09:00 +0530
 description: Kidney stone, One of the most painful conditions known to humans. Why it happens and how to prevent it?
 excerpt: Kidney stone, One of the most painful conditions known to humans. Why it happens and how to prevent it?
 header:
-  teaser: /assets/images/img-ks2.jpg
+  teaser: /assets/images/teaser2.jpg
   overlay_image: /assets/images/img-ks2.jpg
   overlay_filter: 0.3 # same as adding an opacity of 0.5 to a black background
   caption: "Created with Hitech Kidney Stone Hospital" 
@@ -17,7 +17,6 @@ tags:
   - Kidney stones
   - Informative
 ---
-
 ## Introduction
 Kidney stones are among the most painful conditions known to humans, often compared in intensity to labor pain.
 
