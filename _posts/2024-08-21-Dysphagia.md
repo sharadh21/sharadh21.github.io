@@ -61,10 +61,5 @@ The next time you sit down for a meal, take a moment to appreciate the millions 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YQm5RCz9Pxc?si=ZLrxwayGz_Bba91y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <figcaption>Simple animation explaining swallowing</figcaption>
 
-<div class="notice--info">
-  <h4>BG 6.5: uddhared ātmanātmānaṁ nātmānam avasādayet ātmaiva hyātmano bandhur ātmaiva ripur ātmanaḥ</h4>
-  <p>Elevate yourself through the power of your mind, and not degrade yourself, for the mind can be the friend and also the enemy of the self.</p>
-</div>
-
 **Note:** This blog is [not medical advice](#). If you have any symptoms that concern you, talk to your doctor for a proper diagnosis
 {: .notice--danger}
