@@ -1,6 +1,6 @@
 ---
 title: Who are you?
-last_modified_at: 2024-11-10 09:00 +0530
+last_modified_at: 2024-11-10 22:00 +0530
 description: What I've learned until now about the age old question, who are you?
 excerpt: Do you remember the first time you got an identity  card? Maybe it was at school, a small badge with your name and photo.
 header:
@@ -52,34 +52,35 @@ You’d think retirement would bring rest and relaxation, but for him, it was an
 ## Pilgrimages and Prayer
 In search of something to fill this void, he started traveling, just like many retirees in India do. He went to temples, made pilgrimages to Kashi and Kanyakumari, hoping these journeys would give him a renewed purpose. Yet each time he returned home, that emptiness lingered. 
 
-Eventually, he found some comfort in a small temple in my grandmother's hometown, where he could fall back into a quiet routine. I think he was searching for a connection to something greater than himself, something that might fill the gap the gap left by his work
+Eventually, he found some comfort in a small temple in my grandmother's hometown, where he could fall back into a quiet routine. I think he was searching for a connection to something greater than himself, something that might fill the gap left by his work
 
 ## The Consequences of a Lost Identity
 As time went on and his health declined, I noticed a change in him. He seemed to lose his spark and sense of direction. He had always dreamed of owning his own shop, and that unfulfilled dream lingered as a quiet regret. Without a clear purpose outside of his work, it was as if he gradually let go of the will to keep going. He aged quickly, eventually falling ill, and when he passed, it felt as though he had quietly drifted out of life, unanchored and adrift. 
 
-Watching him, I learned something profound: we need meaning in life beyond our roles and labels, Our identities are not just societal constructs; they shape our sense of purpose and fulfillment. When those identities fade or are stripped away, we risk losing our motivation and connection to life itself.
+Watching him, I learned something profound: Our identities are not just societal constructs; they shape our sense of purpose and fulfillment. When those identities fade or are stripped away, we risk losing our motivation and connection to life itself. We need meaning in life beyond our roles and labels.
 
 # Philosophical insight
 ## Converging Teachings on Identity
 When I was in school, we had classes with ISKCON (the International Society for Krishna Consciousness) where they’d talk to us about moral values, spirituality, and teachings from the Bhagavad Gita. In one such session, they asked us, “Who are you?” It sounds so simple, but the more they talked, the more I realized it wasn’t. They encouraged us to think beyond our names, our bodies, to see ourselves as souls. I thought I understood it then, that maybe our mind was the soul, that's who we truly are. But as I grew older, I began to realize that I was wrong. 
 
 {% capture fig_img %}
-![Soul]({{ "https://www.holy-bhagavad-gita.org/public/images/bg/2.jpg" | relative_url }})
+[![Soul]({{ "https://www.holy-bhagavad-gita.org/public/images/bg/2.jpg" | relative_url }})](https://www.holy-bhagavad-gita.org/public/images/bg/2.jpg)
 {% endcapture %}
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Depiction of soul.
-  </figcaption>
+  <figcaption>Depiction of soul.</figcaption>
 </figure>
 
-There’s a line in the [Bhagavad Gita](https://www.holy-bhagavad-gita.org/chapter/2/verse/13) that speaks to this idea of a continuous soul:
->dehino ’smin yathā dehe kaumāraṁ yauvanaṁ jarā    
->tathā dehāntara-prāptir dhīras tatra na muhyati
+There’s a line in the [Bhagavad Gita](https://www.holy-bhagavad-gita.org/chapter/2/verse/20) that speaks to this idea of a continuous soul:
+>na jāyate mriyate vā kadāchin   
+>nāyaṁ bhūtvā bhavitā vā na bhūyaḥ   
+>ajo nityaḥ śhāśhvato ’yaṁ purāṇo   
+>na hanyate hanyamāne śharīre   
 
-**BG 2.13:** Just as the embodied soul continuously passes from childhood to youth to old age, similarly, at the time of death, the soul passes into another body. The wise are not deluded by this.
+**BG 2.20:** The soul is neither born, nor does it ever die; nor having once existed, does it ever cease to be. The soul is without birth, eternal, immortal, and ageless. It is not destroyed when the body is destroyed.
 
-To me, this verse says that while our bodies and roles change, there’s something within us that stays the same.
+To me, this verse says that while our roles and eventually body changes, there’s something within us that stays the same.
 
 
 **Soul:** The spiritual or immaterial part of a human being or animal, regarded as immortal.
