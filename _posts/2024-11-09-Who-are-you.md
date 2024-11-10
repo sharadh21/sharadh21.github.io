@@ -84,19 +84,19 @@ To me, this verse says that while our roles and eventually body changes, there�
 
 
 **Soul:** The spiritual or immaterial part of a human being or animal, regarded as immortal.
-{: .notice--info}
+{: .notice--success}
 
 A few years ago, I read an amazing book called The Power of Now by Eckhart Tolle. The book says that to feel happy and peaceful, we need to live fully in the present moment. Tolle explains that many of our worries come from something called the "ego", a part of our mind that keeps thinking about past mistakes or worrying about the future. 
 
 **Ego:** It is the "I" or self. The ego creates your identity.
-{: .notice--info}
+{: .notice--success}
 
 What intrigued me most was when he said, "You are not your mind." He introduces the idea of a higher consciousness he calls “Being,” which cannot be fully understood through thought or words; it is more of a calm awareness we can feel. When we connect with this state of “Being,” we experience true happiness.
 
 But, honestly, this left me feeling even more confused. Having been taught that I am not just my body now led me to question whether I am also not my mind or thoughts either. This idea frustrated me, pushing me back to the same question: Who am I, really?
 
 **Being:** Being is a higher consciousness that emanates from the Universal Source of all life. It is timeless and eternal.
-{: .notice--info}
+{: .notice--success}
 
 Both ISKCON's teachings about seeing ourselves as souls and Tolle's insights on transcending the ego converge on a central theme: our true identity lies beyond physical form and societal roles. They encourage us to explore deeper aspects of existence rather than getting caught up in transient labels.
 
@@ -106,7 +106,7 @@ As a Hindu, I’ve often heard that the Bhagavad Gita contains the answers to al
 
 
 **Advaita:** The term Advaita literally means "non-secondness" but is usually rendered as "nondualism."
-{: .notice--info}
+{: .notice--success}
 
 According to Advaita:
 - Brahman is the ultimate reality, not a god in the traditional sense but the purest form of existence.
