@@ -2,7 +2,7 @@
 title: Do not speak when you're eating
 last_modified_at: 2024-08-21 22:35 +0530
 description: Why we shouldn't speak when we're eating
-excerpt: You've all heard the saying, "Do not eat when you speak", Have you wondered why? 
+excerpt: You've all heard the saying, Have you wondered why? 
 header:
   teaser: /assets/images/teaser1.jpg
   overlay_image: /assets/images/img03.jpg
