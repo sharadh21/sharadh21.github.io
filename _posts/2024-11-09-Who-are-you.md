@@ -137,3 +137,12 @@ So, who are you? How far along are you in your journey towards finding these ans
 “Who am I?”—it’s one of the most important questions we can ask ourselves.
 {: .notice--success}
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-B3XV9NBVRK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-B3XV9NBVRK');
+</script>
