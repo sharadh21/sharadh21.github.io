@@ -78,13 +78,3 @@ In conclusion, kidney stones are a common yet extremely painful condition that s
 
 **Note:** This blog is [not medical advice](#). If you have concerning symptoms, consult your doctor for a proper diagnosis and treatment plan.
 {: .notice--danger}
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-B3XV9NBVRK"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-B3XV9NBVRK');
-</script>

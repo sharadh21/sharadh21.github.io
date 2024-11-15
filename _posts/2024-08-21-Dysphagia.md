@@ -63,13 +63,3 @@ The next time you sit down for a meal, take a moment to appreciate the millions 
 
 **Note:** This blog is [not medical advice](#). If you have any symptoms that concern you, talk to your doctor for a proper diagnosis
 {: .notice--danger}
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-B3XV9NBVRK"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-B3XV9NBVRK');
-</script>
